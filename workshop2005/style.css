@@ -1,0 +1,9 @@
+BODY, TD { font-family: verdana, helvetica, arial; font-size: 11pt; color: #1A1976 } 
+
+span.red1 {color: #A7005B}
+
+A         { text-decoration: none }
+A:link    { color: #A7005B }
+A:hover   { text-decoration: underline overline;}
+A:active  { color: #A7005B }
+A:visited { color: #A7005B }

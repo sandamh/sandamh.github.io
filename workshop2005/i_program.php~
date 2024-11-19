@@ -1,0 +1,158 @@
+<html>
+<head>
+<title>
+AAAI-05 Workshop on Inference for Textual Question Answering - July 9, 2005
+</title>
+
+<link rel="stylesheet" type="text/css" href="style04.css">
+
+</head>
+<body bgcolor="#D9E1D9">
+
+	<tr>
+	<td>
+		<tr>
+		<td class="a" vAlign="top" height="100%" width="500">
+		<h3>Program</h3>
+		A printer friendly version of this program is available in <a href="programAAAI05.pdf">PDF format</a> or <a href="programAAAI05.ps">PS format</a>.
+		<br><br>
+		<table border="0">
+
+		<tr>
+			<td class="a" colSpan="2"><h4>Saturday, July 9</h4></td>
+		</tr>
+<TR><TD ALIGN="LEFT">9:00-9:30</TD>
+<TD ALIGN="LEFT"><EM>Textual Inference by Combining Multiple Logic Programming Paradigms</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">C. Baral, G. Gelfond, M. Gelfond, Richard B. Scherl</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">9:30-10:00</TD>
+<TD ALIGN="LEFT"><EM>Moving QA Towards Reading Comprehension Using Context and Default Reasoning</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">C. Clark, D. Hodges, J. Stephan, D. Moldovan</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">10:00-10:30</TD>
+<TD ALIGN="LEFT"><EM>Using AnsProlog with Link Grammar and WordNet for QA with Deep Reasoning</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">L. Tari, C. Baral</TD>
+</TR>
+<TR><TD ALIGN="LEFT">10:30-11:00</TD>
+<TD ALIGN="LEFT">Coffee Break</TD>
+</TR>
+<TR><TD ALIGN="LEFT">11:00-11:30</TD>
+<TD ALIGN="LEFT"><EM>Question Generation for Learning by Reading</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">L. Ureel II, K. Forbus, C. Riesbeck, L. Birnbaum</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">11:30-12:00</TD>
+<TD ALIGN="LEFT"><EM>Question Answering Based on Temporal Inference</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">S. Harabagiu, C. Bejan</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">12:00-13:30</TD>
+<TD ALIGN="LEFT">Lunch Break</TD>
+</TR>
+<TR><TD ALIGN="LEFT">13:30-14:00</TD>
+<TD ALIGN="LEFT"><EM>Syntactic and Semantic Decomposition Strategies for Question Answering from</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT"><EM>Multiple Resources</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">B. Katz, G. Borchardt, S. Felshin</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">14:00-14:30</TD>
+<TD ALIGN="LEFT"><EM>Model-based Answer Selection</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">S. Sinha, S. Narayanan</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">14:30-15:00</TD>
+<TD ALIGN="LEFT"><EM>A Basic Logic for Textual Davidsonian Inference</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">D. Bobrow, C. Condoravdi, R. Crouch, R. Kaplan, L. Karttunen, T. King,</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">V. dePaiva, A. Zaenen</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">15:00-15:30</TD>
+<TD ALIGN="LEFT"><EM>Determining the Plausibility of Answers to Questions</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">T. Smith, T. Repede, S. Lytinen</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">15:30-16:00</TD>
+<TD ALIGN="LEFT">Coffee Break</TD>
+</TR>
+<TR><TD ALIGN="LEFT">16:00-16:30</TD>
+<TD ALIGN="LEFT"><EM>Knowledge Representation via Verbal Description Generalization:</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT"><EM>Alternative Programming in Sampletalk Language</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">A. Gleibman</TD>
+</TR>
+<TR><TD ALIGN="LEFT">16:30-17:00</TD>
+<TD ALIGN="LEFT"><EM>Description of the KnowItAll Project</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">O. Ezioni</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">17:00-18:00</TD>
+<TD ALIGN="LEFT"><EM>Panel on Computational Models for Inference in QA</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">18:00-18:30</TD>
+<TD ALIGN="LEFT"><EM>Invitation to the AAAI 2006 Spring Symposium on Formalizing and Compiling</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT"><EM>Background Knowledge and its Applications to KR and QA</EM></TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">C. Baral</TD>
+</TR>
+<TR><TD ALIGN="LEFT">&nbsp;</TD>
+<TD ALIGN="LEFT">&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="LEFT">18:30-18:40</TD>
+<TD ALIGN="LEFT">Wrap-Up</TD>
+</TR>
+		</table>					
+	</td>
+	</tr>						
+</table>
+</body>
+</html>
