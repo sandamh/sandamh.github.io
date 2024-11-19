@@ -1,0 +1,65 @@
+BODY, TD {
+           font-family: verdana, helvetica, arial;
+           color: #224b61; font-size: smaller;
+         }
+BODY     { background: #96adbb /*url(bgr.gif) repeat;*/ }
+TD.menu  { color: /* #142d3a */ #224b61;
+           font-variant: small-caps;
+           font-weight: bold;
+           font-stretch: narrower;
+           font-size: 12px;
+           margin: 0px 5px 10px;
+           padding: 4px
+          }
+
+A         { color: #155e15; font-weight: bold; text-decoration: none }
+A:link    { }
+A:hover   { text-decoration: underline;}
+A:active  { }
+A:visited { }
+
+A.menu { color: #224b61;
+         font-variant: small-caps;
+         font-weight: bold;
+         font-stretch: narrower;
+         font-size: 12px;
+       }
+
+
+table.menubg {
+    background: #c3c9d7;
+}
+
+table.bg_home {
+    background: url(images/clockbg.jpg) #c3c9d7 top right no-repeat;
+}
+
+table.bg_publications {
+    background: url(images/cadorobg.jpg) #c3c9d7 top right no-repeat;
+}
+
+table.bg_research {
+    background: url(images/columnsbg.jpg) #c3c9d7 top right no-repeat;
+}
+
+table.bg_teaching {
+    background: url(images/cathbg.jpg) #c3c9d7 top right no-repeat;
+}
+
+table.bg_personal {
+    background: url(images/coatarmsbg.jpg) #c3c9d7 top right no-repeat;
+}
+
+table.bg_students {
+    background: url(images/libartsbg.jpg) #c3c9d7 top right no-repeat;
+}
+
+td.contact { 
+            font-family: /*cursive, fantasy,*/ sans-serif;
+            /*font-variant: small-caps;*/
+            font-weight: normal;
+            /*font-stretch: condensed;*/
+            font-size: 12px;
+            margin: 0px 5px 10px;
+            padding: 4px
+        }
