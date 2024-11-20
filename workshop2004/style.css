@@ -1,0 +1,10 @@
+BODY, TD { font-family: verdana, helvetica, arial; } 
+TD.a     { color: red; font-size: smaller; }
+BODY     { background-image: url(bgr.gif); background-repeat: repeat; }
+TD.menu  { color: #F7FDFC; font-size: 10pt;  }
+
+A         { font-weight: bold; text-decoration: none }
+A:link    { color: #F7FDFC }
+A:hover   { text-decoration: underline overline;}
+A:active  { color: #F7FDFC }
+A:visited { color: #F7FDFC }
