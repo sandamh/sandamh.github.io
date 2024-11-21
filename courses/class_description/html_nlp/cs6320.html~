@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>CS 6320 - Natural Language Processing</title>
+<style>
+span.normaltext {
+	font-size: 15;
+	color: #E3D0C2;
+	font-family: Verdana, Tahoma, Arial;
+}
+
+span.yellowtext {
+	font-size: 12;
+	color: #FFE84E;
+	font-family: Verdana, Tahoma, Arial;
+}
+
+</style>
+</head>
+
+<body bgcolor="#7D2700">
+<table align="center" width="700" border="0" cellpadding="0" cellspacing="0" style="background: #FBF977 url(nlpbkg.jpg) 0% 5px repeat-y">
+<tr><td><img src="nlpheader.jpg" border="0"></td></tr>
+<tr><td>
+
+
+<!-- CONTENT STARTS HERE -->
+<table border="0" cellspacing="0" cellpadding="10"><tr><td>
+<span class="normaltext">
+Interested in learning how to build computational methods for interpreting texts? Do you want to learn how to extract
+information from large text corpora, even the Internet? Fascinated with machine translation, which allows you to produce automatically translations from any language?
+
+<p>The graduate Computer Science class CS 6320 on Natural Language Processing addresses key information about the linguistic foundations and algorithmic practices that enable syntactic parsing, semantic interpretation and even machine translation of texts.
+
+<p>Natural Language Processing (NLP) is the oldest discipline in Artificial Intelligence, focusing on the study of how language is used and allows people to communicate and share interpretations of written texts, verbal dialogues and express cultural inference.
+
+<p>CS 6320 considers syntactic parsing, semantic interpretation, lexical and morphological analysis, pragmatic processing as well as machine translation. The fundamental algorithms for each of these areas of natural language processing are studied. The course also shows how these techniques can be applied to real world problems: spelling checking, Web-page processing, conversational agents. Students will learn how to evaluate in a scientific way the language techniques they learn and will become familiar with widely available language processing resources.
+</span>
+<p>
+<table  border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0"><tr><td align="left">
+<img src="nlpbook.gif" align="left">
+</td><td valign="top">
+<span class="yellowtext">
+<b>Textbook:</b>
+<br><br>Speech and Language Processing:
+<br>An Introduction to Natural Language Processing,
+<br>Computational Linguistics and Speech Recognition
+
+<br><br><small>by Daniel Jurafsky and James H. Martin
+
+<br><br>Prentice-Hall, Inc.</small>
+
+</span>
+</td></tr></table>
+
+</td><td>
+&nbsp;&nbsp;
+</td><td valign="top" align="right">
+<span class="yellowtext">
+<b>Pre-requisites:</b>
+<br><br>CS 5343
+<br>Algorithm Analysis &amp; Data Structures
+</span>
+</td></tr>
+</table>
+</td></tr></table>
+<!-- CONTENT ENDS HERE -->
+
+
+
+</td></tr>
+<tr><td><img src="nlpbkg_bottom.jpg"></td></tr>
+</table>
+</body>
+</html>
